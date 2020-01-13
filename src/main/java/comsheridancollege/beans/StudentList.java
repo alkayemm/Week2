@@ -14,6 +14,8 @@ import java.util.Scanner;
 public class StudentList {
     public static void main (String[] arg){
         
+        //test for github
+                
         Student [] s = new Student [2];
         Scanner scan = new Scanner(System.in);
         for(int i = 0; i <= s.length ; i++)
